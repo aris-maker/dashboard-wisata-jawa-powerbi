@@ -53,5 +53,5 @@ Model data terdiri dari 4 tabel yang saling berelasi:
 ## 👤 Author
 
 **NAMA ANDA**
-- GitHub: (https://github.com/aris-maker)
-- LinkedIn: (https://linkedin.com/in/username)
+- GitHub: https://github.com/aris-maker
+- LinkedIn: https://www.linkedin.com/in/aris-styawan-469731306
